@@ -98,8 +98,9 @@ pip install -r requirements.txt
 ## Results
 
 Sample denoising results:
-<img width="794" height="394" alt="image" src="https://github.com/user-attachments/assets/e017decd-2f39-4fd0-b6be-b75e468dcf66" />
 
+
+<img width="794" height="394" alt="image" src="https://github.com/user-attachments/assets/e017decd-2f39-4fd0-b6be-b75e468dcf66" />
 <img width="872" height="2352" alt="image" src="https://github.com/user-attachments/assets/2d18652e-01f0-408e-82c8-20e83339c168" />
 
 
